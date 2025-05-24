@@ -39,13 +39,6 @@ Hospital Management System using MySQL, Php and Bootstrap
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
 9. Hurray! That's it!
     
-### SOFTWARES USED
-  - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
-  - Sublime Text 3.2 was used as a text editor.
-  - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
-  
-
-  
 
 
 
